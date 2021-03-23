@@ -21,9 +21,6 @@ export default {
   generate: {
     routes: otherRoutes.concat(getDynamicPaths(routeMap))
   },
-  module.exports = {
-  trailingSlash: true,
-  }
   /*
    ** Global CSS
    */
