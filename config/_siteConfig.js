@@ -12,7 +12,7 @@ export default {
   siteName: 'PDF4JEE',
   tagline: 'One-Stop Site for Cracking JEE',
   featureImage: '/uploads/home-hero.jpg',
-  logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
+  logo: 'logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
     on: true,
     id: process.env.GOOGLE_ANALYTICS_ID
@@ -20,11 +20,11 @@ export default {
   mainMenu: [
     {
       name: 'About',
-      link: '/about/'
+      link: '/about'
     },
     {
       name: 'Categories',
-      link: '/categories/'
+      link: '/categories'
     }
   ],
   hero: {
