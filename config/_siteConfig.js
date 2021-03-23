@@ -19,10 +19,6 @@ export default {
   },
   mainMenu: [
     {
-      name: 'About',
-      link: '/about'
-    },
-    {
       name: 'Categories',
       link: '/categories'
     }
