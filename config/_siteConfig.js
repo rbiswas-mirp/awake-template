@@ -10,7 +10,7 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'PDF4JEE',
-  tagline: 'One-Stop Site for Cracking JEE',
+  tagline: 'Your one-stop site for cracking JEE Main and Advanced',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo.png', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
