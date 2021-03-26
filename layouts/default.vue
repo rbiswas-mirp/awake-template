@@ -1,14 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.css" />
-<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@algolia/algoliasearch-netlify-frontend@1/dist/algoliasearchNetlify.js"></script>
-<script type="text/javascript">
-  algoliasearchNetlify({
-    appId: '7SEL0HCGB7',
-    apiKey: 'a77e9377842404b04b0ec5f290e3a9fe',
-    siteId: '1c5de298-c20d-4a63-8d8d-52d690e8a299',
-    branch: 'master',
-    selector: 'div#search',
-  });
-</script>
 <template>
   <div
     :class="
