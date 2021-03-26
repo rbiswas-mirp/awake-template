@@ -7,7 +7,7 @@ author: Admin
 date: 2021-03-26T14:36:07.563Z
 featureImage: /uploads/vedantu-chemistry.jpg
 ---
-Revision materials for JEE (Mains and Advanced) provided by Vedantu are really helpful and concise. This is a must need material for both JEE Main and IIT-JEE students. It covers the whole syllabus of chemistry of class 11 and class 12.
+Revision materials for JEE (Mains and Advanced) provided by Vedantu are really helpful and concise. This is a must read material for both JEE Main and IIT-JEE students. It covers the whole syllabus of chemistry of class 11 and class 12.
 
 1. [Some Basic Concepts of Chemistry](https://www.vedantu.com/iit-jee/jee-main-some-basic-concepts-in-chemistry-revision-notes)
 2. [States of Matter](https://www.vedantu.com/iit-jee/jee-main-states-of-matter-revision-notes)
