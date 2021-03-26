@@ -7,7 +7,7 @@
     apiKey: 'a77e9377842404b04b0ec5f290e3a9fe',
     siteId: '1c5de298-c20d-4a63-8d8d-52d690e8a299',
     branch: 'master',
-    selector: 'div#search',
+    selector: 'div#search-bar',
   });
 </script>
   <div
