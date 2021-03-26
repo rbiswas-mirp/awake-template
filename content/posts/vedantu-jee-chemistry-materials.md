@@ -1,5 +1,5 @@
 ---
-title: Vedantu JEE Chemistry Materials
+title: Vedantu JEE Chemistry Material
 subtitle: Get Vedantu chemistry material for JEE Mains and Advanced here
 category:
   - Vedantu
