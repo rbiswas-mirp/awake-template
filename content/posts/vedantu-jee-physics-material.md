@@ -5,7 +5,7 @@ category:
   - Vedantu
 author: Admin
 date: 2021-03-26T16:47:37.141Z
-featureImage: /uploads/vedantu-physics.png
+featureImage: /uploads/vedantu-physics.jpg
 ---
 Revision materials for JEE (Mains and Advanced) provided by Vedantu are really helpful and concise. This is a must-read material for both JEE Main and IIT-JEE students. It covers the whole syllabus of physics of class 11 and class 12.
 
